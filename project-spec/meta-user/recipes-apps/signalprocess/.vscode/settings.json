@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "threadpool.h": "c",
+        "stdio.h": "c",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "unistd.h": "c",
+        "networkcqueue.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "if_arp.h": "c",
+        "in.h": "c",
+        "if.h": "c"
+    }
+}

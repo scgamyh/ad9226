@@ -1,0 +1,6 @@
+#!/bin/sh
+echo " Starting myapp-init"
+cd /usr/bin/
+insmod  /lib/modules/4.19.0-xilinx-v2019.1/extra/xilinx-axidma.ko
+./signalprocess
+
